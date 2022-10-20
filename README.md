@@ -114,7 +114,6 @@ np.mean(predict(res.x,X)==y)
 ~~~
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 ![output](./ml1.png)
 ![output](./ml2.png)
 ![output](./ml3.png)
